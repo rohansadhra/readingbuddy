@@ -1,0 +1,8 @@
+{
+  "name": "Reading Buddy AI",
+  "description": "An interactive app to help children practice reading aloud and improve comprehension. The app records a child's reading, transcribes it, and generates questions to test their understanding.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
